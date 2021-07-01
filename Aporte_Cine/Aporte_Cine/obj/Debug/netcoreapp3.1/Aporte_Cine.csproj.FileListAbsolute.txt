@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\bin\Debug\netcoreapp3.1\Aporte_Cine.exe
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\bin\Debug\netcoreapp3.1\Aporte_Cine.deps.json
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\bin\Debug\netcoreapp3.1\Aporte_Cine.runtimeconfig.json
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\bin\Debug\netcoreapp3.1\Aporte_Cine.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\bin\Debug\netcoreapp3.1\Aporte_Cine.dll
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\bin\Debug\netcoreapp3.1\Aporte_Cine.pdb
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.dll
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.pdb
+C:\Users\Usuario\source\repos\Aporte_Cine\Aporte_Cine\obj\Debug\netcoreapp3.1\Aporte_Cine.genruntimeconfig.cache
